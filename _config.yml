@@ -1,0 +1,11 @@
+name: PythonExcels
+description: PythonExcels site
+
+url: "http://pythonexcels.github.io"
+
+paginate: 5
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
