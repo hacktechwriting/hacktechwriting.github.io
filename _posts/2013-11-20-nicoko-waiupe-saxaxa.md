@@ -1,6 +1,8 @@
 ---
 title: Post 2013-11-20
 layout: shortdefault
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+published: false
 ---
 
 # Post 2013-11-20

@@ -1,6 +1,7 @@
 ---
 title: Hello World
 layout: shortdefault
+excerpt: Welcome to HackTechWriting.
 ---
 
 

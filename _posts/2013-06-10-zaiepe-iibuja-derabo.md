@@ -1,6 +1,7 @@
 ---
 title: Post 2013-06-10
 layout: shortdefault
+published: false
 ---
 
 # Post 2013-06-10
