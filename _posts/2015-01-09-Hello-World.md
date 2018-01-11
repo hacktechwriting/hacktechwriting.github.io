@@ -18,3 +18,5 @@ Not long ago, the technical writing profession was populated with writers expert
 Like lines of code in program, less writing is more if it serves the same function. Leave the superfluous adverbs and adjectives to Marketing, and let's focus on the core information our users need. Lets strive to make the writing accurate, and precise, with just as many words as are required to convey the message.
 
 I have an audacious goal for you: make quality and accuracy a priority in your documentation. In the coming posts, I'll share with you some simple tools and techniques to raise the quality of your documentation. By sharing this information with others in your organization, you can help them at the same time.
+
+Let's get started!
